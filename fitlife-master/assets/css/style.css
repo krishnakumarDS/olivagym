@@ -26,15 +26,15 @@
   --silver-metallic: hsl(212, 9%, 67%);
   --coquelicot_20: hsla(12, 98%, 52%, 0.2);
   --coquelicot_10: hsla(12, 98%, 52%, 0.1);
-  --sonic-silver: hsl(0, 0%, 47%);
-  --cadet-gray: hsl(214, 15%, 62%);
-  --light-gray: hsl(0, 0%, 80%);
-  --coquelicot: hsl(12, 98%, 52%);
+  --sonic-silver: hsl(0, 0%, 100%);
+  --cadet-gray: hsl(210, 100%, 100%);
+  --light-gray: hsl(0, 100%, 100%);
+  --coquelicot: hsl(59, 98%, 52%);
   --gainsboro: hsl(0, 0%, 88%);
   --white_20: hsl(0, 0%, 100%, 0.2);
   --white_10: hsl(0, 0%, 100%, 0.1);
   --black_10: hsl(0, 0%, 0%, 0.1);
-  --white: hsl(0, 0%, 100%);
+  --white: hsl(226, 98%, 50%);
 
   /**
    * typography
